@@ -1,5 +1,0 @@
-Arrays
-Linkedlist
-Stack
-Queue
-Tree
